@@ -1,0 +1,2392 @@
+{
+  "desktop": {
+    "name": "desktop",
+    "viewport": {
+      "width": 1366,
+      "height": 768
+    },
+    "consoleMessages": [
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      },
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      },
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      }
+    ],
+    "failedRequests": [
+      {
+        "url": "https://sankarganesh98.github.io/rakshawedssankar/song.mp3",
+        "failure": "net::ERR_ABORTED"
+      }
+    ],
+    "responses": [],
+    "metrics": {
+      "title": "Raksha ❤️ Sankar Wedding",
+      "meta": [
+        {
+          "name": null,
+          "property": null,
+          "content": null
+        },
+        {
+          "name": "viewport",
+          "property": null,
+          "content": "width=device-width, initial-scale=1.0"
+        }
+      ],
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Raksha & Sankar",
+          "visible": false
+        },
+        {
+          "level": "H2",
+          "text": "Wedding Invitation",
+          "visible": false
+        },
+        {
+          "level": "H2",
+          "text": "Dear Guest,",
+          "visible": false
+        },
+        {
+          "level": "H1",
+          "text": "Raksha & Sankar",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "Wedding Events",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Reception",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Wedding Ceremony",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Reception",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "We look forward to celebrating with you",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "Raksha ❤️ Sankar",
+          "visible": true
+        }
+      ],
+      "focusables": [
+        {
+          "tag": "input",
+          "text": "Guest",
+          "id": "guestName",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        },
+        {
+          "tag": "button",
+          "text": "Open Invitation",
+          "id": "",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        },
+        {
+          "tag": "button",
+          "text": "View Wedding Details",
+          "id": "enterBtn",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        }
+      ],
+      "forms": [
+        {
+          "id": "guestName",
+          "name": null,
+          "placeholder": "Enter Your Name",
+          "label": "",
+          "ariaLabel": "",
+          "required": false
+        }
+      ],
+      "imageCount": 88,
+      "uniqueImageSources": 8,
+      "duplicateSrcCount": {
+        "img/7.JPG": 11,
+        "img/2.JPG": 11,
+        "img/15.jpeg": 11,
+        "img/4.JPG": 11,
+        "img/11.JPG": 11,
+        "img/1.JPG": 11,
+        "img/13.jpeg": 11,
+        "img/9.JPG": 11
+      },
+      "images": [
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        }
+      ],
+      "iframeCount": 3,
+      "iframeTitles": [
+        null,
+        null,
+        null
+      ],
+      "htmlLang": "en",
+      "mainDisplay": "block",
+      "bodyOverflow": "auto",
+      "flowerCount": 17,
+      "scrollWidth": 1366,
+      "clientWidth": 1366,
+      "scrollHeight": 2185,
+      "clientHeight": 768,
+      "visibleText": "🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 Raksha & Sankar Together with their families invite you to celebrate their wedding 26 Days 18 Hours 13 Minutes 07 Seconds 29 May 2026 | 6:00 AM – 7:30 AM Wedding Events Reception 28 May 2026 After 6 PM Grand Palace – Marriage Hall A/C MM Legacy, Kanchipuram Wedding Ceremony 29 May 2026 6:00 AM – 7:30 AM Grand Palace – Marriage Hall A/C MM Legacy, Kanchipuram Reception 31 May 2026 After 6 PM AARNA A/C Banquet Hall Pallavaram, Chennai We look forward to celebrating with you Raksha ❤️ Sankar",
+      "computed": {
+        "bodyBackground": "rgb(123, 0, 0)",
+        "welcomeCardWidth": 0,
+        "overlayWidth": 700,
+        "galleryTrackWidth": 27668
+      }
+    },
+    "perf": {
+      "navigation": {
+        "domContentLoaded": 559,
+        "loadEventEnd": 2467,
+        "duration": 2467,
+        "transferSize": 1795,
+        "encodedBodySize": 1495
+      },
+      "resourceCount": 17,
+      "totalTransfer": 10498905,
+      "resources": [
+        {
+          "name": "rakshawedssankar/song.mp3",
+          "initiatorType": "audio",
+          "transferSize": 2899672,
+          "encodedBodySize": 2899372,
+          "decodedBodySize": 2899372,
+          "duration": 2171
+        },
+        {
+          "name": "rakshawedssankar/bg.png",
+          "initiatorType": "css",
+          "transferSize": 2241198,
+          "encodedBodySize": 2240898,
+          "decodedBodySize": 2240898,
+          "duration": 2425
+        },
+        {
+          "name": "rakshawedssankar/img/11.JPG",
+          "initiatorType": "img",
+          "transferSize": 939100,
+          "encodedBodySize": 938800,
+          "decodedBodySize": 938800,
+          "duration": 1599
+        },
+        {
+          "name": "rakshawedssankar/img/4.JPG",
+          "initiatorType": "img",
+          "transferSize": 878965,
+          "encodedBodySize": 878665,
+          "decodedBodySize": 878665,
+          "duration": 1423
+        },
+        {
+          "name": "rakshawedssankar/img/2.JPG",
+          "initiatorType": "img",
+          "transferSize": 871348,
+          "encodedBodySize": 871048,
+          "decodedBodySize": 871048,
+          "duration": 1055
+        },
+        {
+          "name": "rakshawedssankar/img/1.JPG",
+          "initiatorType": "img",
+          "transferSize": 807890,
+          "encodedBodySize": 807590,
+          "decodedBodySize": 807590,
+          "duration": 1801
+        },
+        {
+          "name": "rakshawedssankar/img/7.JPG",
+          "initiatorType": "img",
+          "transferSize": 747593,
+          "encodedBodySize": 747293,
+          "decodedBodySize": 747293,
+          "duration": 771
+        },
+        {
+          "name": "rakshawedssankar/img/9.JPG",
+          "initiatorType": "img",
+          "transferSize": 672709,
+          "encodedBodySize": 672409,
+          "decodedBodySize": 672409,
+          "duration": 1865
+        },
+        {
+          "name": "rakshawedssankar/img/15.jpeg",
+          "initiatorType": "img",
+          "transferSize": 244936,
+          "encodedBodySize": 244636,
+          "decodedBodySize": 244636,
+          "duration": 813
+        },
+        {
+          "name": "rakshawedssankar/img/13.jpeg",
+          "initiatorType": "img",
+          "transferSize": 190184,
+          "encodedBodySize": 189884,
+          "decodedBodySize": 189884,
+          "duration": 1512
+        },
+        {
+          "name": "rakshawedssankar/style.css",
+          "initiatorType": "link",
+          "transferSize": 2259,
+          "encodedBodySize": 1959,
+          "decodedBodySize": 8020,
+          "duration": 81
+        },
+        {
+          "name": "rakshawedssankar/script.js",
+          "initiatorType": "script",
+          "transferSize": 1880,
+          "encodedBodySize": 1580,
+          "decodedBodySize": 4230,
+          "duration": 90
+        },
+        {
+          "name": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Poppins:wght@300;400&display=swap",
+          "initiatorType": "link",
+          "transferSize": 871,
+          "encodedBodySize": 571,
+          "decodedBodySize": 4052,
+          "duration": 320
+        },
+        {
+          "name": "rakshawedssankar/song.mp3",
+          "initiatorType": "audio",
+          "transferSize": 300,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 1801
+        },
+        {
+          "name": "https://www.google.com/maps?q=MM%20Legacy%20Kanchipuram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 2239
+        },
+        {
+          "name": "https://www.google.com/maps?q=MM%20Legacy%20Kanchipuram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 2239
+        },
+        {
+          "name": "https://www.google.com/maps?q=AARNA%20Banquet%20Hall%20Pallavaram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 2236
+        }
+      ]
+    }
+  },
+  "mobile": {
+    "name": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "consoleMessages": [
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      },
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      },
+      {
+        "type": "debug",
+        "text": "Search endpoint requested!"
+      }
+    ],
+    "failedRequests": [
+      {
+        "url": "https://sankarganesh98.github.io/rakshawedssankar/song.mp3",
+        "failure": "net::ERR_ABORTED"
+      }
+    ],
+    "responses": [],
+    "metrics": {
+      "title": "Raksha ❤️ Sankar Wedding",
+      "meta": [
+        {
+          "name": null,
+          "property": null,
+          "content": null
+        },
+        {
+          "name": "viewport",
+          "property": null,
+          "content": "width=device-width, initial-scale=1.0"
+        }
+      ],
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Raksha & Sankar",
+          "visible": false
+        },
+        {
+          "level": "H2",
+          "text": "Wedding Invitation",
+          "visible": false
+        },
+        {
+          "level": "H2",
+          "text": "Dear Guest,",
+          "visible": false
+        },
+        {
+          "level": "H1",
+          "text": "Raksha & Sankar",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "Wedding Events",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Reception",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Wedding Ceremony",
+          "visible": true
+        },
+        {
+          "level": "H3",
+          "text": "Reception",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "We look forward to celebrating with you",
+          "visible": true
+        },
+        {
+          "level": "H2",
+          "text": "Raksha ❤️ Sankar",
+          "visible": true
+        }
+      ],
+      "focusables": [
+        {
+          "tag": "input",
+          "text": "Guest",
+          "id": "guestName",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        },
+        {
+          "tag": "button",
+          "text": "Open Invitation",
+          "id": "",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        },
+        {
+          "tag": "button",
+          "text": "View Wedding Details",
+          "id": "enterBtn",
+          "visible": false,
+          "disabled": false,
+          "aria": ""
+        }
+      ],
+      "forms": [
+        {
+          "id": "guestName",
+          "name": null,
+          "placeholder": "Enter Your Name",
+          "label": "",
+          "ariaLabel": "",
+          "required": false
+        }
+      ],
+      "imageCount": 88,
+      "uniqueImageSources": 8,
+      "duplicateSrcCount": {
+        "img/7.JPG": 11,
+        "img/2.JPG": 11,
+        "img/15.jpeg": 11,
+        "img/4.JPG": 11,
+        "img/11.JPG": 11,
+        "img/1.JPG": 11,
+        "img/13.jpeg": 11,
+        "img/9.JPG": 11
+      },
+      "images": [
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/7.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1693,
+          "naturalHeight": 2560,
+          "renderedWidth": 278,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/2.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1781,
+          "naturalHeight": 2560,
+          "renderedWidth": 292,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/15.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 960,
+          "naturalHeight": 1280,
+          "renderedWidth": 315,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/4.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1750,
+          "naturalHeight": 2560,
+          "renderedWidth": 287,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/11.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1928,
+          "naturalHeight": 2560,
+          "renderedWidth": 316,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/1.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1791,
+          "naturalHeight": 2560,
+          "renderedWidth": 294,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/13.jpeg",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 853,
+          "naturalHeight": 1280,
+          "renderedWidth": 280,
+          "renderedHeight": 420
+        },
+        {
+          "src": "img/9.JPG",
+          "alt": null,
+          "loading": null,
+          "complete": true,
+          "naturalWidth": 1787,
+          "naturalHeight": 2560,
+          "renderedWidth": 293,
+          "renderedHeight": 420
+        }
+      ],
+      "iframeCount": 3,
+      "iframeTitles": [
+        null,
+        null,
+        null
+      ],
+      "htmlLang": "en",
+      "mainDisplay": "block",
+      "bodyOverflow": "auto",
+      "flowerCount": 16,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "scrollHeight": 3309,
+      "clientHeight": 844,
+      "visibleText": "🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 Raksha & Sankar Together with their families invite you to celebrate their wedding 26 Days 18 Hours 13 Minutes 01 Seconds 29 May 2026 | 6:00 AM – 7:30 AM Wedding Events Reception 28 May 2026 After 6 PM Grand Palace – Marriage Hall A/C MM Legacy, Kanchipuram Wedding Ceremony 29 May 2026 6:00 AM – 7:30 AM Grand Palace – Marriage Hall A/C MM Legacy, Kanchipuram Reception 31 May 2026 After 6 PM AARNA A/C Banquet Hall Pallavaram, Chennai We look forward to celebrating with you Raksha ❤️ Sankar",
+      "computed": {
+        "bodyBackground": "rgb(123, 0, 0)",
+        "welcomeCardWidth": 0,
+        "overlayWidth": 350,
+        "galleryTrackWidth": 27668
+      }
+    },
+    "perf": {
+      "navigation": {
+        "domContentLoaded": 453,
+        "loadEventEnd": 1855,
+        "duration": 1855,
+        "transferSize": 1795,
+        "encodedBodySize": 1495
+      },
+      "resourceCount": 17,
+      "totalTransfer": 10498905,
+      "resources": [
+        {
+          "name": "rakshawedssankar/song.mp3",
+          "initiatorType": "audio",
+          "transferSize": 2899672,
+          "encodedBodySize": 2899372,
+          "decodedBodySize": 2899372,
+          "duration": 894
+        },
+        {
+          "name": "rakshawedssankar/bg.png",
+          "initiatorType": "css",
+          "transferSize": 2241198,
+          "encodedBodySize": 2240898,
+          "decodedBodySize": 2240898,
+          "duration": 700
+        },
+        {
+          "name": "rakshawedssankar/img/11.JPG",
+          "initiatorType": "img",
+          "transferSize": 939100,
+          "encodedBodySize": 938800,
+          "decodedBodySize": 938800,
+          "duration": 1434
+        },
+        {
+          "name": "rakshawedssankar/img/4.JPG",
+          "initiatorType": "img",
+          "transferSize": 878965,
+          "encodedBodySize": 878665,
+          "decodedBodySize": 878665,
+          "duration": 1177
+        },
+        {
+          "name": "rakshawedssankar/img/2.JPG",
+          "initiatorType": "img",
+          "transferSize": 871348,
+          "encodedBodySize": 871048,
+          "decodedBodySize": 871048,
+          "duration": 932
+        },
+        {
+          "name": "rakshawedssankar/img/1.JPG",
+          "initiatorType": "img",
+          "transferSize": 807890,
+          "encodedBodySize": 807590,
+          "decodedBodySize": 807590,
+          "duration": 1551
+        },
+        {
+          "name": "rakshawedssankar/img/7.JPG",
+          "initiatorType": "img",
+          "transferSize": 747593,
+          "encodedBodySize": 747293,
+          "decodedBodySize": 747293,
+          "duration": 629
+        },
+        {
+          "name": "rakshawedssankar/img/9.JPG",
+          "initiatorType": "img",
+          "transferSize": 672709,
+          "encodedBodySize": 672409,
+          "decodedBodySize": 672409,
+          "duration": 1679
+        },
+        {
+          "name": "rakshawedssankar/img/15.jpeg",
+          "initiatorType": "img",
+          "transferSize": 244936,
+          "encodedBodySize": 244636,
+          "decodedBodySize": 244636,
+          "duration": 662
+        },
+        {
+          "name": "rakshawedssankar/img/13.jpeg",
+          "initiatorType": "img",
+          "transferSize": 190184,
+          "encodedBodySize": 189884,
+          "decodedBodySize": 189884,
+          "duration": 1430
+        },
+        {
+          "name": "rakshawedssankar/style.css",
+          "initiatorType": "link",
+          "transferSize": 2259,
+          "encodedBodySize": 1959,
+          "decodedBodySize": 8020,
+          "duration": 208
+        },
+        {
+          "name": "rakshawedssankar/script.js",
+          "initiatorType": "script",
+          "transferSize": 1880,
+          "encodedBodySize": 1580,
+          "decodedBodySize": 4230,
+          "duration": 89
+        },
+        {
+          "name": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Poppins:wght@300;400&display=swap",
+          "initiatorType": "link",
+          "transferSize": 871,
+          "encodedBodySize": 571,
+          "decodedBodySize": 4052,
+          "duration": 266
+        },
+        {
+          "name": "rakshawedssankar/song.mp3",
+          "initiatorType": "audio",
+          "transferSize": 300,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 196
+        },
+        {
+          "name": "https://www.google.com/maps?q=MM%20Legacy%20Kanchipuram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 1254
+        },
+        {
+          "name": "https://www.google.com/maps?q=MM%20Legacy%20Kanchipuram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 1256
+        },
+        {
+          "name": "https://www.google.com/maps?q=AARNA%20Banquet%20Hall%20Pallavaram&output=embed",
+          "initiatorType": "iframe",
+          "transferSize": 0,
+          "encodedBodySize": 0,
+          "decodedBodySize": 0,
+          "duration": 1256
+        }
+      ]
+    }
+  }
+}

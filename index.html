@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Mohammed Harish & Regina Begam | Nikkah Invitation</title>
+  <meta name="description" content="Nikkah invitation for Mohammed Harish and Regina Begam on Sunday, July 5, 2026 at Arraheemiya Nikkah Mahal, Therizhandur.">
+  <meta property="og:title" content="Mohammed Harish & Regina Begam | Nikkah Invitation">
+  <meta property="og:description" content="Sunday, July 5, 2026 at 11:30 AM, Arraheemiya Nikkah Mahal, Therizhandur.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/hero-nikkah-pattern.webp">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cinzel:wght@500;700&family=Noto+Serif+Tamil:wght@500;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="locked">
+  <section id="welcomeScreen" class="gate-screen" aria-labelledby="welcome-title">
+    <div class="gate-card">
+      <p class="arabic gate-arabic" lang="ar">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
+      <h1 id="welcome-title">Mohammed Harish <span>&</span> Regina Begam</h1>
+      <h2>Nikkah Invitation</h2>
+      <p>We warmly invite you and your family to join our blessed Nikkah ceremony.</p>
+      <form class="name-form" id="nameForm">
+        <label for="guestName">Your name</label>
+        <input id="guestName" name="guestName" autocomplete="name" placeholder="Enter Your Name" required>
+        <button class="button primary" type="submit">Open Invitation</button>
+      </form>
+    </div>
+  </section>
+
+  <section id="letterScreen" class="gate-screen" aria-labelledby="letterTitle" hidden>
+    <div class="letter-card">
+      <p class="arabic gate-arabic" lang="ar">بَارَكَ اللهُ لَكُمَا</p>
+      <h2 id="letterTitle"></h2>
+      <p id="letterText"></p>
+      <p id="letterEnd"></p>
+      <button class="button primary" id="enterButton" type="button">View Nikkah Details</button>
+    </div>
+  </section>
+
+  <div id="mainWebsite" hidden>
+  <div class="flower-container" aria-hidden="true"></div>
+  <button class="music-toggle" id="musicToggle" type="button" aria-pressed="false" aria-label="Play background music">
+    Music Off
+  </button>
+  <audio id="bgMusic" src="assets/Wedding Nasheed  Muhammad Al Muqit (English Lyrics).mp3" preload="auto" loop></audio>
+  <header class="site-header" aria-label="Main navigation">
+    <a class="brand" href="#top" aria-label="Mohammed Harish and Regina Begam invitation">
+      <span class="brand-mark">HR</span>
+      <span>Nikkah Invitation</span>
+    </a>
+    <nav>
+      <a href="#details">Details</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#family">Family</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-shade"></div>
+      <div class="hero-content">
+        <p class="arabic" lang="ar">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
+        <p class="eyebrow">Nikkah Wedding Invitation</p>
+        <h1 id="hero-title">Mohammed Harish <span>&</span> Regina Begam</h1>
+        <p class="hero-copy">
+          With the blessing of Almighty, we warmly invite you and your family to
+          join the Nikkah ceremony.
+        </p>
+
+        <div class="hero-facts" aria-label="Wedding date time and venue">
+          <div>
+            <span>Date</span>
+            <strong>Sunday, 05 July 2026</strong>
+          </div>
+          <div>
+            <span>Nikkah</span>
+            <strong>11:30 AM</strong>
+          </div>
+          <div>
+            <span>Venue</span>
+            <strong>Arraheemiya Nikkah Mahal, Therizhandur</strong>
+          </div>
+        </div>
+
+        <div class="hero-actions" aria-label="Invitation actions">
+          <a class="button primary" href="#details">View Details</a>
+          <a class="button secondary" href="https://www.google.com/maps/search/?api=1&query=Arraheemiya%20Nikkah%20Mahal%2C%20Therizhandur" target="_blank" rel="noopener">Directions</a>
+          <button class="button ghost" id="calendarButton" type="button">Add Calendar</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="countdown-band" aria-label="Countdown to Nikkah">
+      <div class="countdown-copy">
+        <p class="section-kicker">Insha Allah</p>
+        <h2>Nikkah begins in</h2>
+      </div>
+      <div class="countdown" id="countdown" aria-live="polite">
+        <div><strong id="days">00</strong><span>Days</span></div>
+        <div><strong id="hours">00</strong><span>Hours</span></div>
+        <div><strong id="minutes">00</strong><span>Minutes</span></div>
+        <div><strong id="seconds">00</strong><span>Seconds</span></div>
+      </div>
+    </section>
+
+    <section class="details-section" id="details" aria-labelledby="details-title">
+      <div class="section-heading">
+        <p class="section-kicker">Wedding Details</p>
+        <h2 id="details-title">A calm, blessed gathering with family and friends</h2>
+      </div>
+
+      <div class="detail-grid">
+        <article class="detail-card">
+          <p class="card-kicker">Bridegroom</p>
+          <h3>M. Mohammed Harish</h3>
+          <p>B.Tech. EEE, Dubai</p>
+        </article>
+        <article class="detail-card">
+          <p class="card-kicker">Bride</p>
+          <h3>A. Regina Begam</h3>
+          <p>B.Com., MBA</p>
+        </article>
+        <article class="detail-card">
+          <p class="card-kicker">Venue</p>
+          <h3>Arraheemiya Nikkah Mahal</h3>
+          <p>Therizhandur</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="schedule-section" id="schedule" aria-labelledby="schedule-title">
+      <div class="section-heading">
+        <p class="section-kicker">Sunday, 05 July 2026</p>
+        <h2 id="schedule-title">Event Schedule</h2>
+      </div>
+
+      <div class="timeline">
+        <article>
+          <time datetime="2026-07-05T11:00:00+05:30">11:00 AM</time>
+          <h3>Guest Arrival</h3>
+          <p>Family and guests gather at Arraheemiya Nikkah Mahal.</p>
+        </article>
+        <article>
+          <time datetime="2026-07-05T11:30:00+05:30">11:30 AM</time>
+          <h3>Nikkah Ceremony</h3>
+          <p>The blessed Nikkah ceremony for Mohammed Harish and Regina Begam.</p>
+        </article>
+        <article>
+          <time datetime="2026-07-05T12:30:00+05:30">12:30 PM</time>
+          <h3>Lunch Reception</h3>
+          <p>Viranthu upacharippu with family, friends, and well-wishers.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="tamil-section" aria-labelledby="tamil-title">
+      <div class="tamil-copy" lang="ta">
+        <p class="section-kicker">நிக்காஹ் அழைப்பிதழ்</p>
+        <h2 id="tamil-title">முஹம்மது ஹாரிஸ் & ரெஜினா பேகம்</h2>
+        <p>
+          இன்ஷா அல்லாஹ் நிக்காஹ் நடைபெறும் நாள் 05.07.2026 ஞாயிற்றுக்கிழமை.
+          மண இடம் அர்ரஹீமியா நிக்காஹ் மஹால், தேரிழந்தூர்.
+        </p>
+        <dl>
+          <div><dt>காலை 11.30</dt><dd>நிக்காஹ் திருமணம்</dd></div>
+          <div><dt>பகல் 12.30</dt><dd>விருந்து உபசரிப்பு</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="family-section" id="family" aria-labelledby="family-title">
+      <div class="section-heading">
+        <p class="section-kicker">With Love</p>
+        <h2 id="family-title">Families warmly request your presence</h2>
+      </div>
+
+      <div class="family-grid">
+        <article>
+          <h3>Invitation From</h3>
+          <p>M. Mohammed Naser family, Therizhandur</p>
+          <p>A. Abdul Rahman family</p>
+        </article>
+        <article>
+          <h3>Contact</h3>
+          <p><a href="tel:+919626369664">9626369664</a></p>
+          <p><a href="tel:+918489980268">8489980268</a></p>
+        </article>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p class="arabic" lang="ar">بَارَكَ اللهُ لَكُمَا</p>
+    <p>Mohammed Harish & Regina Begam</p>
+  </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+[
+  {
+    "state": "welcome",
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "description": "Ensure all page content is contained by landmarks",
+        "nodes": 4,
+        "targets": [
+          ".inviteTitle",
+          ".inviteSubtitle",
+          ".inviteMessage",
+          "#guestName"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "letter",
+    "violations": [
+      {
+        "id": "region",
+        "impact": "moderate",
+        "description": "Ensure all page content is contained by landmarks",
+        "nodes": 2,
+        "targets": [
+          "#letterTitle",
+          "#letterText"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "main",
+    "violations": [
+      {
+        "id": "frame-title",
+        "impact": "serious",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "nodes": 3,
+        "targets": [
+          ".eventCard:nth-child(1) > iframe",
+          ".eventCard:nth-child(2) > iframe",
+          ".eventCard:nth-child(3) > iframe"
+        ]
+      },
+      {
+        "id": "image-alt",
+        "impact": "critical",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "nodes": 88,
+        "targets": [
+          "img[src=\"img/7.JPG\"]:nth-child(1)",
+          "img[src=\"img/2.JPG\"]:nth-child(2)",
+          "img[src$=\"15.jpeg\"]:nth-child(3)",
+          "img[src=\"img/4.JPG\"]:nth-child(4)",
+          "img[src$=\"11.JPG\"]:nth-child(5)"
+        ]
+      },
+      {
+        "id": "landmark-one-main",
+        "impact": "moderate",
+        "description": "Ensure the document has a main landmark",
+        "nodes": 1,
+        "targets": [
+          "html"
+        ]
+      },
+      {
+        "id": "region",
+        "impact": "moderate",
+        "description": "Ensure all page content is contained by landmarks",
+        "nodes": 19,
+        "targets": [
+          ".flower-container",
+          ".hero",
+          ".events > .sectionTitle",
+          ".eventCard:nth-child(1) > h3",
+          ".eventCard:nth-child(1) > p:nth-child(2)"
+        ]
+      }
+    ]
+  }
+]

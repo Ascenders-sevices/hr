@@ -737,6 +737,23 @@ section {
     display: none;
   }
 
+  .detail-grid,
+  .family-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-card,
+  .family-grid article {
+    min-height: auto;
+    padding: 24px 22px;
+    text-align: center;
+  }
+
+  .detail-card h3,
+  .family-grid h3 {
+    text-wrap: balance;
+  }
+
   .hero-actions {
     display: grid;
   }
